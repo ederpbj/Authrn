@@ -13,6 +13,7 @@ Commit git|`git commit -m "git inicial`
 Push force git|`git push -f origin master`
 
 ### Comandos
+**:computer:**
 
 Descrição | Comando
 --------- | ------
