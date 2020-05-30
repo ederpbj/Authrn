@@ -3,6 +3,7 @@
 ## Comandos no terminal
 
 ### GitHub 
+**:github:**
 
 Descrição | Comando
 --------- | ------
@@ -18,6 +19,7 @@ Push force git|`git push -f origin master`
 Descrição | Comando
 --------- | ------
 Criar projeto com npx | `npx react-native init Authrn --template react-native-template-typescript`
+React Navigation| `yarn add @react-navigation/native`
 | ``
 
 ** Deletar -> app.tsx
