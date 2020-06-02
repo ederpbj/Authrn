@@ -22,5 +22,9 @@ Criar projeto com npx | `npx react-native init Authrn --template react-native-te
 React Navigation| `yarn add @react-navigation/native`
 | ``
 
+## Links úteis
+
+[React Navigation](https://reactnavigation.org/docs/getting-started)
+
 ** Deletar -> app.tsx
 ** Criar -> src/App.tsx
